@@ -1,0 +1,16 @@
+PODS:
+  - WYCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - WYCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  WYCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WYCategoryKit: 16889b21bea438e53efaa251dcbb7956c51a9b9a
+
+PODFILE CHECKSUM: c7562be712754b0a88e204c90d52d3814b65612d
+
+COCOAPODS: 1.8.4
